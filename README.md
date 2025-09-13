@@ -116,6 +116,6 @@ End a poll by its ID.
 
 ---
 
-For issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yourusername/nmd-vote).
+For issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yummysheepouo/A-Simple-Discord-Poll-Bot) or contact me via Discord: yummysheep.
 
----
+
